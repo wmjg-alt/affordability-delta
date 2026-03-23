@@ -2,7 +2,7 @@
 
 An interactive visualization mapping the gap between actual US renter incomes and the reality of the rental market across 33,000+ US ZIP codes. 
 
-**[Live Map Here](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME)** *(We will update this link after deployment)*
+**[Live Map Here]([https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME](https://wmjg-alt.github.io/affordability-delta/))**
 
 ## The Math
 This map highlights the difference between what renters *should* be paying (the 30% Rule) and what they *are* paying.
