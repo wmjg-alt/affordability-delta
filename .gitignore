@@ -1,0 +1,14 @@
+# Environments
+venv/
+__pycache__/
+
+# Map Shapefiles (Too large for Git, generated locally)
+map_data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional local test files
+interactive_test_map.html
+static_map_test.png
